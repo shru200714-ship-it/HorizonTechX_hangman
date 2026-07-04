@@ -5,7 +5,6 @@
 
 import random
 
-# List of predefined words
 word_list = [
     "python",
     "computer",
